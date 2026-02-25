@@ -2,7 +2,7 @@ import Image from "next/image";
 import { lusitana } from "/project/workspace/nextjs-dashboard/app/ui/fonts";
 import Search from "/project/workspace/nextjs-dashboard/app/ui/search";
 import {
-  CustomersTableType,
+  // CustomersTableType,
   FormattedCustomersTable,
 } from "/project/workspace/nextjs-dashboard/app/lib/definitions";
 
